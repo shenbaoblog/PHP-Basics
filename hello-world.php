@@ -12,6 +12,8 @@
 echo "hello world";
 ?>
 
+    <p>テストです。</p>
+
 </body>
 
 </html>
